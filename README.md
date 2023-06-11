@@ -15,6 +15,6 @@ document. It includes user-friendly interfaces,
 efficient data processing, security and privacy, scalability, and integration with other systems.
 Every user who are involved in the system have their own User Interface. It contains
 three interfaces.
-*Academic Office Interface
-*Faculty Interface
-*Students Interface
+* Academic Office Interface
+* Faculty Interface
+* Students Interface
